@@ -151,3 +151,6 @@ checklink/cookies.txt
 .quarto
 data/
 weights/
+nbs/images/samples_trojan/
+model_weights/
+nbs/images/samples_benign_trojan/
