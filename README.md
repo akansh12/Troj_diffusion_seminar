@@ -2,7 +2,7 @@
 
 <figure style="text-align:center">
 <img
-  src="./images/intro_slide_img.jpg"
+  src="/nbs/images/intro_slide_img.jpg"
   alt="Advanced Topics in Diffusion Modeling - From Theory to Implementation UDS WS 2023"
   width="100%">
 </figure>
@@ -25,13 +25,3 @@ by Weixin Chen, Dawn Song, Bo Li
 
 Seminar presentation Link by Akansh Maurya:
 [Presentation](https://docs.google.com/presentation/d/1CktLNGnoMf4NUnueRCSHKHaeX85XuKcVA4hMRti1xjc/edit?usp=sharing)
-
-## How to Read
-
-This is main Seminar notebook.
-
-``` python
-print("hi")
-```
-
-    hi
